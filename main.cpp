@@ -19,7 +19,7 @@ int main(){
     cout<< virusname<< " caused very financial problems in Pakistan"<<endl;
 
     cout<<"the PM of Pakistan in " <<year<< " was  imran khan"<<endl;
-
+      cout<<"hello world";
   return 0;
 
 }
